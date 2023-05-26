@@ -31,3 +31,18 @@ article, aside {
   overflow-y: auto;
 }
 
+body {
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  background-color: #eaeaea;
+  border: 1px solid #ccc;
+}
+
+/* Add more CSS rules for other elements as desired */
+
