@@ -40,3 +40,7 @@ Please refrain from modifying the layout strategy implemented with CSS Flexbox, 
 Make sure to save the changes and refresh the webpage to see the updated CSS styles in action.
 
 Enjoy customizing your website and creating a unique visual experience for your users!
+
+## Author
+
+Oche David Ankeli (https://github.com/Tripp808)
