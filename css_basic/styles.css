@@ -1,0 +1,48 @@
+/* Apply flexbox to body and main */
+body, main {
+  display: flex;
+}
+
+/* Set the flex direction for body and main */
+body {
+  flex-direction: column;
+}
+
+main {
+  flex-direction: row;
+}
+
+/* Set the flex properties for main */
+main {
+  flex: auto;
+}
+
+/* Set the width of article and aside */
+article {
+  flex: 2;
+}
+
+aside {
+  flex: 1;
+}
+
+/* Enable scrolling for article and aside */
+article, aside {
+  overflow-y: auto;
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  background-color: #eaeaea;
+  border: 1px solid #ccc;
+}
+
+/* Add more CSS rules for other elements as desired */
+
