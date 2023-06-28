@@ -20,7 +20,7 @@ header {
     flex: auto;
     /* ... other styles ... */
 }
-## For a detailed explanation of the CSS code and its styles for each section, please refer to the style.css file.
+# For a detailed explanation of the CSS code and its styles for each section, please refer to the style.css file.
 
 ## Contribution and Usage
 Contributions to this web development project are welcome. Feel free to fork the repository, make modifications, and submit pull requests with your improvements. You can also use this project as a starting point for your own web development endeavors.
