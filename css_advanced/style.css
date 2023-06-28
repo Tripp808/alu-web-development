@@ -10,7 +10,7 @@ header {
     flex-direction: row;
     flex: auto;
     margin-left: -90px;
-    background-image: url("/medias/Images/banner.png");
+    background-image: url("/css_advanced/medias/Images/banner.png");
     padding: 2% 5% 2% 5%;
     filter: grayscale(100%);
     position: absolute;
